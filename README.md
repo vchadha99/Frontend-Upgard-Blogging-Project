@@ -4,7 +4,7 @@
 
 #### Open index.html file in your browser to have a look at my project.(with all files and folders in same folder)
 
-###The languages used are
+### The languages used are
 
 #### HTML
 #### CSS
